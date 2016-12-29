@@ -1,15 +1,25 @@
 {
-	"auto_match_enabled": false,
-	"caret_style": "phase",
-	"color_scheme": "Packages/Color Scheme - Default/Cobalt.tmTheme",
-	"fade_fold_buttons": false,
-	"highlight_line": true,
-	"highlight_modified_tabs": true,
-	"ignored_packages": ["Vintage"],
-	"show_full_path": true,
-	"tab_size": 4,
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true,
-	"convert_tabspaces_on_save": true // requires https://packagecontrol.io/packages/Expand%20Tabs%20on%20Save
+  "auto_match_enabled": false,
+  "caret_style": "phase",
+  "color_scheme": "Packages/User/SublimeLinter/InspiredGitHub (SL).tmTheme",
+  "convert_tabspaces_on_save": true, // requires https://packagecontrol.io/packages/Expand%20Tabs%20on%20Save
+  "detect_indentation": false,
+  "ensure_newline_at_eof_on_save": true,
+  "fade_fold_buttons": false,
+  "font_face": "mplus-1mn-light",
+  "font_size": 12,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "ignored_packages":  [
+    "jscs",
+    "jshint",
+    "Vintage"
+  ],
+  "line_padding_bottom": -2.5,
+  "line_padding_top": -2.5,
+  "show_full_path": true,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "word_wrap": true
 }
